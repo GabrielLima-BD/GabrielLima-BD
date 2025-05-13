@@ -31,6 +31,8 @@
 | PostgreSQL      | Iniciante    | ★★★☆☆         |
 | MongoDB         | Iniciante    | ★★★☆☆         |
 
+<br>
+
 <h3><strong><em>Familiaridade com Linguagens:</em></strong> </h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -73,13 +75,6 @@
 
 ***Portfólio Web:*** *Site responsivo em HTML/CSS junto com JavaScript com design que reflete minha vibe streetwear.*
 *Pensnado e projetos futuros*.
-<br>
-<br>
-<br>
-📊 ***Stats do Grind***
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima-BD&layout=compact&theme=vision-friendly-dark" alt="Linguagens Mais Usadas"/>
-</p>
  <br>
  <br>
  
