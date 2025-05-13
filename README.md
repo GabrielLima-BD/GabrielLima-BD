@@ -1,87 +1,89 @@
+<h2 align="center"><strong><em>Gabriel Lima | Dev de Dados</em></strong> 🖥️</h2>
 
-  
-
-
-***Gabriel Lima | Dev de Dados***🖥️
-
-
-  
-
-
+<br>
 
   *Apaixonado por Banco de Dados, códigos e streetwear. Criando sistemas que organizam o caos.*
-  Camaquã, RS | *Low profile, mas sempre marcante.* 🚀
-
-
-
-🧑‍💻***Sobre Mim***
-
-*De boa, sou um cara low profile, quero ficar na minha sem criar atrito nem nada. Tô sempre de fone no ouvido, ficar sem escutar musica hoje em dia é um tédio, mundo fica cinza e sem graça. Curto ficar viajando, olhando pro céu à noite, perdido no espaço, tendo ideias, imaginando mil e uma possibilidades diferentes da vida, falo que viver na madrugada é melhor coisa que existe, o silêncio das ruas é arte.*
-
-*Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre bolando algo novo, curto muito fazer um simples programa para automatizar minhas tarefas diaria, desde uma otimização sempre ao entrar em algum jogo, quanto a um catálogo  de todos os jogos e launchers que tenho. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
-
-
-
-💾 ***Minhas Skills***
-
-
-
-
-
-***SQL***
-★★★★★ *Avançado*
-
-
-***Python***
-★★★★☆ *Intermediário*
-
-
-***HTML/CSS***
-★★★★☆ *Intermediário*
-
-
-***SQLite/MySQL***
-★★★★☆ *Intermediário*
-
-
-***C#***
-★★★☆☆ *Iniciante*
-
-
-
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-
-
   
+  Camaquã, RS | *Low profile, mas sempre marcante.* 
+<br>
+
+<h3><strong><em>Sobre Mim</em></strong> 🧟 🖥️</h3>
 
 
 
-Recentemente, mandando ver em Python e SQL, com HTML/CSS pra aquele visual clean.
+   *De boa, sou um cara low profile, quero ficar na minha sem criar atrito nem nada. Tô sempre de fone no ouvido, ficar sem escutar musica hoje em dia é um tédio, mundo fica cinza e sem graça. Curto ficar viajando, olhando pro céu à noite, perdido no espaço, tendo ideias, imaginando mil e uma possibilidades diferentes da vida, falo que viver na madrugada é melhor coisa que existe, o silêncio das ruas é arte.*
 
-📂 ***Projetos em Destaque***
+   *Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre bolando algo novo, curto muito fazer um simples programa para automatizar minhas tarefas diaria, desde uma otimização sempre ao entrar em algum jogo, quanto a um catálogo  de todos os jogos e launchers que tenho. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
+<br>
+<br>
 
-Sistema de Copiadora: Gerenciador de serviços em Python com SQLite. Organiza tudo na moral.
-Portfólio Web: Site responsivo em HTML/CSS, com design que reflete minha vibe streetwear.
-Em breve: App de gerenciamento de tarefas com CustomTkinter pra interfaces modernas.
+<h3><strong><em>Minhas Skills</em></strong> 🖥️</h3>
 
+<br>
 
-  
+| Tecnologia      | Nível        | Avaliação     |
+|-----------------|--------------|---------------|
+| SQL             | Avançado     | ★★★★★         |
+| Python          | Intermediário| ★★★★☆         |
+| HTML/CSS        | Intermediário| ★★★★☆         |
+| SQLite/MySQL    | Intermediário| ★★★★☆         |
+| C#              | Iniciante    | ★★★☆☆         |
+| PostgreSQL      | Iniciante    | ★★★☆☆         |
+| MongoDB         | Iniciante    | ★★★☆☆         |
 
+<h3><strong><em>Familiaridade com Linguagens:</em></strong> </h3>
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  </a>
 
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+</div>
+
+<br>
+<br>
+<h3><strong><em>Projetos em Destaque</em></strong> 📂</h3>
+<br>
+
+***Sistema de Biblioteca:*** *Projeto FullStack de um sistema para Biblioteca.*
+
+***Portfólio Web:*** *Site responsivo em HTML/CSS junto com JavaScript com design que reflete minha vibe streetwear.*
+*Pensnado e projetos futuros*.
+<br>
+<br>
+<br>
 📊 ***Stats do Grind***
-
-  
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima-BD&layout=compact&theme=vision-friendly-dark" alt="Linguagens Mais Usadas"/>
+</p>
+ <br>
+ <br>
+ 
 📍 ***...***
 
-LinkedIn - www.linkedin.com/in/gabrieldlimabd.  
-E-mail: g.delima.ti@gmail.com 
+***LinkedIn:*** *www.linkedin.com/in/gabrieldlimabd.*  
+***E-mail:*** *g.delima.ti@gmail.com* 
