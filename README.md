@@ -9,8 +9,8 @@
 
 
 
-  *Apaixonado por Banco de Dados, código e streetwear. Criando sistemas que organizam o caos, com estilo e precisão.*
-  Camaquã, RS | *Low profile, mas com alto impacto.* 🚀
+  *Apaixonado por Banco de Dados, códigos e streetwear. Criando sistemas que organizam o caos.*
+  Camaquã, RS | *Low profile, mas sempre marcante.* 🚀
 
 
 
@@ -20,9 +20,7 @@
 
 *Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre bolando algo novo, curto muito fazer um simples programa para automatizar minhas tarefas diaria, desde uma otimização sempre ao entrar em algum jogo, quanto a um catálogo  de todos os jogos e launchers que tenho. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
 
-<p align="center">
-  <img src="https://ibb.co/prwpJ3pb" alt="Carro Anime Noite" width="300"/>
-</p>
+
 
 💾 ***Minhas Skills***
 
