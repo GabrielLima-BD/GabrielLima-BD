@@ -11,9 +11,7 @@
 
 
 
-   *De boa, sou um cara low profile, quero ficar na minha sem criar atrito nem nada. Tô sempre de fone no ouvido, ficar sem escutar musica hoje em dia é um tédio, mundo fica cinza e sem graça. Curto ficar viajando, olhando pro céu à noite, perdido no espaço, tendo ideias, imaginando mil e uma possibilidades diferentes da vida, falo que viver na madrugada é melhor coisa que existe, o silêncio das ruas é arte.*
-
-   *Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre bolando algo novo, curto muito fazer um simples programa para automatizar minhas tarefas diaria, desde uma otimização sempre ao entrar em algum jogo, quanto a um catálogo  de todos os jogos e launchers que tenho. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
+ *Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre bolando algo novo, curto muito fazer um simples programa para automatizar minhas tarefas diaria, desde uma otimização sempre ao entrar em algum jogo, quanto a um catálogo  de todos os jogos e launchers que tenho. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
 <br>
 <br>
 
