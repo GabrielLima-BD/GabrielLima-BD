@@ -4,14 +4,14 @@
 
   *Apaixonado por Banco de Dados, códigos e streetwear. Criando sistemas que organizam o caos.*
   
-  Camaquã, RS | *Low profile, mas sempre marcante.* 
+  Camaquã, RS   | *Low profile.* 
 <br>
 
 <h3><strong><em>Sobre Mim</em></strong> 🧟 🖥️</h3>
 
 
 
- *Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre bolando algo novo, curto muito fazer um simples programa para automatizar minhas tarefas diaria, desde uma otimização sempre ao entrar em algum jogo, quanto a um catálogo  de todos os jogos e launchers que tenho. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
+ *Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre fazendo algo novo,pode ser simples programa para automatizar minhas tarefas diarias, ou algum projeto que me deixe louco. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
 <br>
 <br>
 
