@@ -11,23 +11,24 @@
 
 
 
- *Mexer com Banco de Dados virou meu Hobbie favorito. É tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre fazendo algo novo,pode ser simples programa para automatizar minhas tarefas diarias, ou algum projeto que me deixe louco. Quando quero dar uma descontraída, boto um jogo ou alguma stream pra desestressar, na real qualquer coisa para descontrair por um tempo.*
+ *Mexer com Banco de Dados virou meu papssa-tempo, é tipo montar um quebra-cabeça digital, organizar os dados, montar quarys gigantescas e desafiadoras . Tô sempre fazendo algo novo,pode ser simples programa para automatizar minhas tarefas diarias, ou algum projeto que me deixe louco. Quando quero dar uma descontraída, abro o spotfy e boto um jogo ou coloco alguma stream pra desestressar.*
 <br>
 <br>
 
-<h3><strong><em>Minhas Skills</em></strong> 🖥️</h3>
+<h3><strong><em>Skills</em></strong> 🖥️</h3>
 
 <br>
 
 | Tecnologia      | Nível        | Avaliação     |
 |-----------------|--------------|---------------|
-| SQL             | Avançado     | ★★★★★         |
-| Python          | Intermediário| ★★★★☆         |
-| HTML/CSS        | Intermediário| ★★★★☆         |
-| SQLite/MySQL    | Intermediário| ★★★★☆         |
-| C#              | Iniciante    | ★★★☆☆         |
-| PostgreSQL      | Iniciante    | ★★★☆☆         |
-| MongoDB         | Iniciante    | ★★★☆☆         |
+| SQL             | Avançado     | ★★★★★      |
+| PostgreSQL      | Intermediário| ★★★★☆      |
+| SQLite/MySQL    | Intermediário| ★★★★☆      |
+| Python          | Intermediário| ★★★★☆      |
+| JavaScript      | Intermediário| ★★★★☆      |
+| HTML/CSS        | Intermediário| ★★★★☆      |
+| C#              | Iniciante    | ★★★☆☆      |
+| MongoDB         | Iniciante    | ★★★☆☆      |
 
 <br>
 
@@ -51,6 +52,11 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+
+ 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   </a>
