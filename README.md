@@ -75,7 +75,7 @@
 <h3><strong><em>Projetos em Destaque</em></strong> 📂</h3>
 <br>
 
-***Sistema de Biblioteca:*** *Projeto FullStack de um sistema para Biblioteca.*
+***Sistema de Biblioteca:*** *Projeto FullStack em desenvolvimento de um sistema Interno e EXterno para Biblioteca.*
 
 ***Portfólio Web:*** *Site responsivo em HTML/CSS junto com JavaScript com design que reflete minha vibe streetwear.*
 *Pensnado e projetos futuros*.
