@@ -75,9 +75,9 @@
 <h3><strong><em>Projetos em Destaque</em></strong> 📂</h3>
 <br>
 
-***Sistema de Biblioteca:*** *Projeto FullStack em desenvolvimento de um sistema Interno e Externo para Biblioteca.*
+***Sistema de Biblioteca:*** *Projeto de BackEnd sobre um sistema Interno para Bibliotecas.*
 
-*Pensnado e projetos futuros*.
+***Sietam para Costureira:*** *Projeto feito para uma micro empresa de costura para consultar demandas e gastos.*.
  <br>
  <br>
  
