@@ -1,4 +1,4 @@
-<h2 align="center"><strong><em>Gabriel Lima | Dev de Dados</em></strong> 🖥️</h2>
+<h2 align="center"><strong><em>Gabriel Lima | Data Developer </em></strong> 🖥️</h2>
 
 <br>
 
