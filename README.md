@@ -77,7 +77,7 @@
 
 ***Sistema de Biblioteca:*** *Projeto de BackEnd sobre um sistema Interno para Bibliotecas.*
 
-***Sietam para Costureira:*** *Projeto feito para uma micro empresa de costura para consultar demandas e gastos.*.
+***Sistema para Costureira:*** *Projeto feito para uma micro empresa de costura para consultar demandas e gastos.*.
  <br>
  <br>
  
