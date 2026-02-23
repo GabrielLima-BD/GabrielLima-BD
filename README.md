@@ -2,7 +2,7 @@
 
 <br>
 
-  *Apaixonado por Banco de Dados. Criando sistemas que organizam o caos.*
+  *Desenvolvendo sistemas que organizam o caos.*
   
   Camaquã, RS   | *Low profile.* 
 <br>
