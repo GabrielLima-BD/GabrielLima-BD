@@ -9,7 +9,7 @@ Camaquã, RS | *Low profile.*
 
 <h3><strong><em>Sobre Mim</em></strong> 🖥️</h3>
 
-*Trabalhar com banco de dados virou meu passa-tempo. É como montar um quebra-cabeça digital: organizar informações, estruturar dados e criar queries grandes e desafiadoras. Estou sempre desenvolvendo algo novo — desde pequenos programas para automatizar tarefas do dia a dia até projetos mais complexos que realmente testam meus limites. Para relaxar, costumo ouvir música no Spotify ou acompanhar streams enquanto estudo ou desenvolvo.*
+*Trabalhar com banco de dados virou meu passa-tempo. É como montar um quebra-cabeça digital: organizar informações, estruturar dados e criar queries grandes e desafiadoras. Estou sempre desenvolvendo algo novo, desde pequenos programas para automatizar tarefas do dia a dia até projetos mais complexos que realmente testam meus limites. Para relaxar, costumo ouvir música no Spotify ou acompanhar streams enquanto estudo ou desenvolvo.*
 
 <br>
 
@@ -43,3 +43,4 @@ Camaquã, RS | *Low profile.*
 
 **LinkedIn:** www.linkedin.com/in/gabrieldlimabd  
 **E-mail:** g.delima.ti@gmail.com
+**Portfólio:** https://glima.me/
