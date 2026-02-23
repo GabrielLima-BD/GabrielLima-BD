@@ -77,6 +77,14 @@
 
 ***Sistema de Biblioteca:*** *Projeto de BackEnd sobre um sistema Interno para Bibliotecas.*
 
+***Dashboard Store:*** *Dashboard de analise dos dados de uma empresa de roupas.*
+
+***Cafeteria Borcelle:*** *Site ficticio da Cafeteria Borcelle.*
+
+***Sistema de Upscaling:*** *Projeto de um sistema que pega videos em mp4, faz upscaling e manda no grupo do Telegram..*
+
+***Detect Fraud:*** *Projeto de um sistema que analisa dados, e identifica onde e se são dados fraudados.*
+
 ***Sistema para Costureira:*** *Projeto feito para uma micro empresa de costura para consultar demandas e gastos.*.
  <br>
  <br>
