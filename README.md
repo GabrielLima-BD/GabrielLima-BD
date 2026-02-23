@@ -42,5 +42,5 @@ Camaquã, RS | *Low profile.*
 📍 **Contato**
 
 **LinkedIn:** www.linkedin.com/in/gabrieldlimabd  
-**E-mail:** g.delima.ti@gmail.com
+**E-mail:** g.delima.ti@gmail.com  
 **Portfólio:** https://glima.me/
